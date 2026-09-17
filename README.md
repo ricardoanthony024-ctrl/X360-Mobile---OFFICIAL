@@ -1,4 +1,5 @@
-# X360 Mobile — Xbox 360 Emulator for Android
+# X360 Mobile — Xbox
+360 Emulator for Android
 
 <p align="center">
   <img src="https://x360mobile.com/logo.png" alt="X360 Mobile logo" width="180"/>
